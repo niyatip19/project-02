@@ -23,15 +23,13 @@
     </center>
 
     <hr>
-
-    <!-- World news -->
+  
     <p id="world">World News</p>
     <p>Today's top headline: Global leaders meet to discuss climate change initiatives.</p>
     <img src="bbc.jpg" alt="BBC World News" width="470" height="260">
     <br>
     <a href="https://www.bbc.com/news" target="_blank">Read more on BBC</a>
 
-    <!-- Sports -->
     <h3 id="sports">Sports Update</h3>
     <p>Highlights of yesterday's football match with thrilling last-minute goals!</p>
     <iframe width="460" height="260"
@@ -41,7 +39,6 @@
 
     <hr>
 
-    <!-- Entertainment -->
     <h3 id="entertainment">Entertainment Buzz</h3>
     <p>New movie trailer released today. Fans are excited!</p>
     <video width="460" height="260" controls>
@@ -51,7 +48,6 @@
 
     <hr>
 
-    <!-- Podcast -->
     <h3 id="podcast">News Podcast</h3>
     <p>Listen to today's top headlines:</p>
     <audio controls>
@@ -61,7 +57,6 @@
 
     <hr>
 
-    <!-- Contact -->
     <h4 id="contact">Contact Us</h4>
     <p>Email: info@globalnews.com</p>
     <p>&copy; 2025 Global Daily News</p>
