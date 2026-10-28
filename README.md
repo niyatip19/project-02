@@ -43,7 +43,7 @@
     <p>New movie trailer released today. Fans are excited!</p>
     <video width="460" height="260" controls>
         <source src="trailer.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+        
     </video>
 
     <hr>
@@ -52,7 +52,7 @@
     <p>Listen to today's top headlines:</p>
     <audio controls>
         <source src="podcast.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
+        
     </audio>
 
     <hr>
